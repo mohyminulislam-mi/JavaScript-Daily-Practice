@@ -10,6 +10,3 @@ let result = first + second;
 console.log(result.toFixed(1))
 // ------------------------------------------------
 
-let price = 20;
-price /= 30;
-console.log(price.toFixed(2))
